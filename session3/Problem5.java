@@ -1,4 +1,4 @@
-package week5;
+package session3;
 class BookingReceipt {
     private final String bookingId;
     private final String[] seatNumbers;

@@ -1,4 +1,4 @@
-package week5;
+package session3;
 class CineScreen {
     private final int seatsTotal;
     private int seatsAvailable;

@@ -1,4 +1,4 @@
-package week5;
+package session3;
 class MovieBookingProfile {
     private String name;
     private boolean confirmed;

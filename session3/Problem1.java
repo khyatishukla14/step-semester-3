@@ -1,4 +1,4 @@
-package week5;
+package session3;
 import java.util.*;
 
 class MovieTicket {
