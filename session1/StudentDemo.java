@@ -1,3 +1,5 @@
+package session1;
+
 class Student {
     String name;
     double attendance;

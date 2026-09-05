@@ -1,3 +1,5 @@
+package session1;
+
 class IdCard {
     String name;
     int booksIssued;

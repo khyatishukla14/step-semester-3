@@ -1,3 +1,5 @@
+package session1;
+
 class Course {
     String code;
     String title;
